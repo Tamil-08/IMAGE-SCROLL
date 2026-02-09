@@ -43,24 +43,3 @@ You can view the demo by opening the `index.html` file in a browser or by deploy
    git clone https://github.com/Tamil-08/IMAGE-SCROLL.git
 
 
-
-
----
-
-### 🔹 Tips to improve README (optional)
-
-You can also include:
-
-✅ A small screenshot of the scroll  
-✅ Live *GitHub Pages* link  
-✅ “How to use your own images” section  
-✅ An example snippet of your CSS layout
-
----
-
-If you want, I can also generate:
-✨ A **GitHub Pages description**,  
-✨ A **project homepage template**, or  
-✨ A **visual demo screenshot guide**  
-Just tell me! 😊
-::contentReference[oaicite:0]{index=0}
