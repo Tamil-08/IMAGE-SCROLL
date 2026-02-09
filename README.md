@@ -6,7 +6,7 @@ This project allows users to scroll through a horizontal sequence of images in a
 
 ---
 ## 📸 Screenshots  
-![Preview]([./public/a0vlv9.gif](https://www.freeconvert.com/image-to-gif))
+![Preview](https://imgflip.com/gif/ajnfhq)
 
 ---
 ## 🚀 Features
