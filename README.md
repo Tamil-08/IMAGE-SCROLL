@@ -1,4 +1,4 @@
-# IMAGE-SCROLL
+
 # IMAGE-SCROLL
 
 A **smooth, responsive image scrolling gallery** implemented using HTML, CSS, and JavaScript.  
