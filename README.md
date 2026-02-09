@@ -5,8 +5,10 @@ A **smooth, responsive image scrolling gallery** implemented using HTML, CSS, an
 This project allows users to scroll through a horizontal sequence of images in a visually engaging way.
 
 ---
-## 📸 Screenshots  
-![Preview]([IMAGE-SCROLL-main\css scrolling\images\ajnfhq.gif])
+<p align="center">
+  <img src="assets/preview.png" width="300" /><br/>
+  <b>Home Page</b>
+</p>
 
 ---
 ## 🚀 Features
