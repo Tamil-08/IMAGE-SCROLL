@@ -6,8 +6,7 @@ This project allows users to scroll through a horizontal sequence of images in a
 
 ---
 ## 📸 Screenshots  
-![Preview](![ajnfhq](https://github.com/user-attachments/assets/db2c1048-50ab-47b2-b002-7217b75410d1)
-)
+![Preview]([IMAGE-SCROLL-main\css scrolling\images\ajnfhq.gif])
 
 ---
 ## 🚀 Features
