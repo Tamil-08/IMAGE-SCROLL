@@ -6,12 +6,6 @@ This project allows users to scroll through a horizontal sequence of images in a
 
 ---
 
-## 📌 Demo
-
-You can view the demo by opening the `index.html` file in a browser or by deploying the project to GitHub Pages.
-
----
-
 ## 🚀 Features
 
 - 📸 **Image scroll gallery** – images scroll horizontally (or vertically) based on user interaction
