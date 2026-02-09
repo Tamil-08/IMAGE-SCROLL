@@ -33,6 +33,15 @@ You can view the demo by opening the `index.html` file in a browser or by deploy
 
 ## 📁 Project Structure
 
+IMAGE-SCROLL/
+├── index.html
+├── styles.css
+├── scripts.js
+├── assets/
+│ ├── image1.jpg
+│ ├── image2.jpg
+│ └── ...
+└── README.md
 
 ---
 
